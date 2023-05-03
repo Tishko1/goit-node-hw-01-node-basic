@@ -11,9 +11,9 @@
 6. В коде нет закомментированных участков кода
 7. Проект корректно работает в актуальной LTS-версии Node
 
-## Links to commands execution screenshots
+## Links to command execution screenshot
 
-1. Get all contacts table:
-2. Get one contact by id:
-3. Add contact to contact list:
-4. Delete contact from contact list:
+1. Get all contacts table: https://ibb.co/mNbnZJC
+2. Get one contact by id: https://ibb.co/qmbVdQG
+3. Add contact to contact list: https://ibb.co/NTQtW2k
+4. Delete contact from contact list: https://ibb.co/FY54nhH
